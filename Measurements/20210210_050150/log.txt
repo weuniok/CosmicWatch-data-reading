@@ -1,0 +1,6 @@
+Date [UTC]: Information
+[2021-02-10_05:01:50]: Start button pressed. Log file created.
+[2021-02-10_04:01:52]: Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')
+[2021-02-10_04:01:55]: Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')
+[2021-02-10_04:01:58]: Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')
+[2021-02-10_04:01:59]: "Stop" button pressed

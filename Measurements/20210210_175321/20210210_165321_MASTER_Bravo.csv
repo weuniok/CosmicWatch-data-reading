@@ -1,0 +1,16 @@
+CosmicWatchDetector
+Bravo
+Creating file: FileM092.txt
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Distance: 1 cm; Angle: 0.0 degrees
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+#####################################################################################
+DetectorID: Bravo
+DetectorMode: Master
+
+2021-02-10 16:53:30.028 1 2074 120 23.58 0 23.15
+2021-02-10 16:53:31.016 2 3075 71 19.06 14 22.94
+2021-02-10 16:53:31.227 3 3266 224 38.29 33 23.15
+2021-02-10 16:53:32.276 4 4337 56 16.76 51 22.94

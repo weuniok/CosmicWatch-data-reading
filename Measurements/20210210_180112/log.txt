@@ -1,0 +1,6 @@
+Date [UTC]: Information
+[2021-02-10_17:01:12]: Start button pressed. Log file created.
+[2021-02-10_17:01:18]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_17:01:18]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_180112\20210210_170112_MASTER_Bravo.csv
+[2021-02-10_17:01:23]: "Stop" button pressed
+[2021-02-10_17:01:23]: Port: COM7. Data line cannot be read. Retrying.  Exception: TypeError("byref() argument must be a ctypes instance, not 'NoneType'")

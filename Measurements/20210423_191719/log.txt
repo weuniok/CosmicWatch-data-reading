@@ -1,0 +1,18 @@
+Date [UTC]: Information
+[2021-04-23_17:17:19]: Start button pressed. Log file created.
+[2021-04-23_17:17:19]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-23_17:17:27]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-23_17:17:27]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210423_191719\20210423_171719_MASTER_Bravo.csv
+[2021-04-23_17:17:33]: Measurements paused.
+[2021-04-23_17:17:39]: Measurements resumed.
+[2021-04-23_17:17:44]: Measurements paused.
+[2021-04-23_17:17:46]: Measurements resumed.
+[2021-04-23_17:17:47]: Measurements paused.
+[2021-04-23_17:17:48]: Measurements resumed.
+[2021-04-23_17:17:49]: Measurements paused.
+[2021-04-23_17:17:49]: Measurements resumed.
+[2021-04-23_17:17:50]: Measurements paused.
+[2021-04-23_17:17:58]: Measurements resumed.
+[2021-04-23_17:18:11]: "Stop" button pressed
+[2021-04-23_17:18:11]: Port: COM9. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')
+[2021-04-23_17:27:44]: "Stop" button pressed

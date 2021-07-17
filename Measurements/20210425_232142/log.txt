@@ -1,0 +1,8 @@
+Date [UTC]: Information
+[2021-04-25_21:21:42]: Start button pressed. Log file created.
+[2021-04-25_21:21:42]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_21:21:52]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_21:21:52]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_232142\20210425_212142_MASTER_Bravo.csv
+[2021-04-25_21:21:52]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_21:21:55]: "Stop" button pressed
+[2021-04-25_21:21:55]: Port: COM9. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')

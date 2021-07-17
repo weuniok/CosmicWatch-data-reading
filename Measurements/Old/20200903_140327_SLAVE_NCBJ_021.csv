@@ -1,0 +1,8 @@
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Distance: 5 cm; Angle: 52.5 degrees
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+#####################################################################################
+DetectorID: NCBJ_021
+DetectorMode: Slave

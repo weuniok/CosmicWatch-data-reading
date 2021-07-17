@@ -1,0 +1,10 @@
+Date [UTC]: Information
+[2021-02-27_18:09:59]: Start button pressed. Log file created.
+[2021-02-27_18:09:59]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-02-27_18:10:07]: Detector connected on port: COM8. ID: Bravo. Mode: Slave
+[2021-02-27_18:10:07]: Measurements file for ID Bravo, Mode: Slave, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210227_190959\20210227_180959_SLAVE_Bravo.csv
+[2021-02-27_18:10:08]: Detector connected on port: COM7. ID: Detektor A. Mode: Master
+[2021-02-27_18:10:08]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210227_190959\20210227_180959_MASTER_Detektor A.csv
+[2021-02-27_18:10:31]: "Stop" button pressed
+[2021-02-27_18:10:31]: Port: COM7. Data line cannot be read. Retrying.  Exception: AttributeError("'NoneType' object has no attribute 'hEvent'")
+[2021-02-27_18:10:31]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')

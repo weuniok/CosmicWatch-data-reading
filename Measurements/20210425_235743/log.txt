@@ -1,0 +1,12 @@
+Date [UTC]: Information
+[2021-04-25_21:57:43]: Start button pressed. Log file created.
+[2021-04-25_21:57:43]: Angle = 60.0 degrees. Distance = 8 cm.
+[2021-04-25_21:57:53]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_21:57:54]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_235743\20210425_215743_MASTER_Bravo.csv
+[2021-04-25_21:57:56]: "Stop" button pressed
+[2021-04-25_21:57:56]: Port: COM9. Data line cannot be read. Retrying.  Exception: TypeError("byref() argument must be a ctypes instance, not 'NoneType'")
+[2021-04-25_21:58:02]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_235743/20210425_215743_MASTER_Bravo.csv
+[2021-04-25_21:58:06]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_235719/20210425_215719_MASTER_Bravo.csv
+[2021-04-25_21:58:12]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_232413/20210425_212413_MASTER_Bravo.csv
+[2021-04-25_21:58:17]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_232413/20210425_212413_MASTER_Bravo.csv
+[2021-04-25_21:58:24]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_232349/20210425_212349_MASTER_Bravo.csv

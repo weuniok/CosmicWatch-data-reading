@@ -1,0 +1,4 @@
+Date [UTC]: Information
+[2021-02-10_01:47:55]: Start button pressed. Log file created.
+[2021-02-10_00:48:01]: Connection with COM8 lost. Disconnected CosmicWatch ID: Unknown Mode: Master.
+[2021-02-10_00:49:06]: "Stop" button bressed

@@ -1,0 +1,5 @@
+Date [UTC]: Information
+[2021-02-27_16:52:44]: Detector connected on port: COM8. ID: Bravo. Mode: Slave
+[2021-02-27_16:52:44]: Measurements file for ID Bravo, Mode: Slave, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210227_175236\20210227_165236_SLAVE_Bravo.csv
+[2021-02-27_16:52:44]: Detector connected on port: COM7. ID: Detektor A. Mode: Master
+[2021-02-27_16:52:44]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210227_175236\20210227_165236_MASTER_Detektor A.csv

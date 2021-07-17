@@ -1,0 +1,6 @@
+Date [UTC]: Information
+[2021-02-10_16:45:55]: Start button pressed. Log file created.
+[2021-02-10_16:46:02]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_16:46:02]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_174555\20210210_164555_MASTER_Bravo.csv
+[2021-02-10_16:46:12]: "Stop" button pressed
+[2021-02-10_16:46:12]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ReadFile failed (OSError(9, 'Nieprawid³owe dojœcie.', None, 6))")

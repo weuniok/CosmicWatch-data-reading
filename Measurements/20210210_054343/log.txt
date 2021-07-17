@@ -1,0 +1,10 @@
+Date [UTC]: Information
+[2021-02-10_04:43:43]: Start button pressed. Log file created.
+[2021-02-10_04:43:49]: Detector connected on port: COM8. ID: Detektor A. Mode: Master
+[2021-02-10_04:43:49]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_054343\20210210_044343_MASTER_Detektor A.csv
+[2021-02-10_04:43:55]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:43:58]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:44:01]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:44:05]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:44:08]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:44:10]: "Stop" button pressed

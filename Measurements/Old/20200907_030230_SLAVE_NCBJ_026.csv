@@ -1,0 +1,14 @@
+SD initialization failed!
+Is there an SD card inserted?
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Distance: 5 cm; Angle: 0.0 degrees
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+#####################################################################################
+DetectorID: NCBJ_026
+DetectorMode: Slave
+2020-09-07 03:02:34.974351 1 3156 94 21.50 0 21.97
+2020-09-07 03:02:35.620100 2 3804 188 32.01 5 22.19
+2020-09-07 03:02:39.433785 3 7613 195 33.17 13 22.08
+2020-09-07 03:02:39.994475 4 8175 348 65.64 19 22.19

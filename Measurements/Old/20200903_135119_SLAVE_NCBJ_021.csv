@@ -1,0 +1,10 @@
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Distance: 5 cm; Angle: 0.0 degrees
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+#####################################################################################
+DetectorID: NCBJ_021
+DetectorMode: Slave
+2020-09-03 13:51:32.702460  1 7755 231 39.55 1845 17.35
+2020-09-03 13:51:47.139334  2 22211 224 38.29 4593 18.11

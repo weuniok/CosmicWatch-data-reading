@@ -1,0 +1,11 @@
+Date [UTC]: Information
+[2021-04-25_17:48:16]: Start button pressed. Log file created.
+[2021-04-25_17:48:16]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_17:48:24]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_17:48:24]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_194816\20210425_174816_MASTER_Bravo.csv
+[2021-04-25_17:48:25]: Port: COM9. Data line cannot be read. Retrying.  Exception: ValueError("could not convert string to float: '17:48:25.044'")
+[2021-04-25_17:48:28]: Port: COM9. Data line cannot be read. Retrying.  Exception: ValueError("could not convert string to float: '17:48:28.046'")
+[2021-04-25_17:48:31]: Port: COM9. Data line cannot be read. Retrying.  Exception: ValueError("could not convert string to float: '17:48:31.050'")
+[2021-04-25_17:48:34]: Port: COM9. Data line cannot be read. Retrying.  Exception: ValueError("could not convert string to float: '17:48:34.052'")
+[2021-04-25_17:48:37]: Port: COM9. Data line cannot be read. Retrying.  Exception: ValueError("could not convert string to float: '17:48:37.054'")
+[2021-04-25_17:48:37]: "Stop" button pressed

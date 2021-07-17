@@ -1,0 +1,5 @@
+Date[UTC]: Information[2020-12-02_22:39:50]: Start button pressed. Log file created.
+[2020-12-02_21:39:52]: Measurements paused.
+[2020-12-02_21:39:53]: Measurements resumed.
+[2020-12-02_21:39:57]: Measurements paused.
+[2020-12-02_21:39:59]: Measurements resumed.

@@ -1,0 +1,17 @@
+Date [UTC]: Information
+[2021-04-25_19:07:45]: Start button pressed. Log file created.
+[2021-04-25_19:07:45]: Angle = 15.0 degrees. Distance = 7 cm.
+[2021-04-25_19:07:55]: Detector connected on port: COM9. ID: Bravo. Mode: Slave
+[2021-04-25_19:07:55]: Measurements file for ID Bravo, Mode: Slave, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_210745\20210425_190745_SLAVE_Bravo.csv
+[2021-04-25_19:07:55]: Detector connected on port: COM8. ID: Detektor A. Mode: Master
+[2021-04-25_19:07:55]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_210745\20210425_190745_MASTER_Detektor A.csv
+[2021-04-25_19:10:25]: "Stop" button pressed
+[2021-04-25_19:10:25]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')
+[2021-04-25_19:10:25]: Port: COM9. Data line cannot be read. Retrying.  Exception: SerialException("ReadFile failed (OSError(9, 'Nieprawid³owe dojœcie.', None, 6))")
+[2021-04-25_19:10:54]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_210745/20210425_190745_MASTER_Detektor A.csv
+[2021-04-25_19:11:00]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_210547/20210425_190547_MASTER_Bravo.csv
+[2021-04-25_19:11:09]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_210547/20210425_190547_MASTER_Bravo.csv
+[2021-04-25_19:11:13]: "Stop" button pressed
+[2021-04-25_19:11:16]: "Stop" button pressed
+[2021-04-25_19:11:16]: "Stop" button pressed
+[2021-04-25_19:11:32]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_210547/20210425_190547_MASTER_Bravo.csv

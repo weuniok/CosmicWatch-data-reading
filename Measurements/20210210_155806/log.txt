@@ -1,0 +1,20 @@
+Date [UTC]: Information
+[2021-02-10_14:58:06]: Start button pressed. Log file created.
+[2021-02-10_14:58:07]: "Show live charts" button pressed.
+[2021-02-10_14:58:12]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_14:58:12]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_155806\20210210_145806_MASTER_Bravo.csv
+[2021-02-10_14:58:13]: Detector connected on port: COM8. ID: Detektor A. Mode: Slave
+[2021-02-10_14:58:13]: Measurements file for ID Detektor A, Mode: Slave, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_155806\20210210_145806_SLAVE_Detektor A.csv
+[2021-02-10_14:59:13]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_14:59:16]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_14:59:19]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_14:59:22]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_14:59:25]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:00:20]: Connection with COM7 restored. Connected CosmicWatch ID: Bravo Mode: Master.
+[2021-02-10_15:00:33]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:00:36]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:00:39]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:00:42]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:00:45]: Port: COM7. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_15:03:10]: "Stop" button pressed
+[2021-02-10_15:03:10]: Port: COM8. Data line cannot be read. Retrying.  Exception: AttributeError("'NoneType' object has no attribute 'hEvent'")

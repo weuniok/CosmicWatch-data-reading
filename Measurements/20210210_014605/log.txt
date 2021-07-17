@@ -1,0 +1,4 @@
+Date [UTC]: Information
+[2021-02-10_01:46:05]: Start button pressed. Log file created.
+[2021-02-10_00:46:07]: Measurements paused.
+[2021-02-10_00:46:09]: "Stop" button bressed

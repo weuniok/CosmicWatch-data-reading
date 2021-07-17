@@ -1,0 +1,8 @@
+Date [UTC]: Information
+[2021-04-25_21:22:29]: Start button pressed. Log file created.
+[2021-04-25_21:22:29]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_21:22:39]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_21:22:39]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_232229\20210425_212229_MASTER_Bravo.csv
+[2021-04-25_21:22:41]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_21:22:46]: "Stop" button pressed
+[2021-04-25_21:22:46]: Port: COM9. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')

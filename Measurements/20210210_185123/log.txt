@@ -1,0 +1,4 @@
+Date [UTC]: Information
+[2021-02-10_17:51:23]: Start button pressed. Log file created.
+[2021-02-10_17:51:30]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_17:51:30]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_185123\20210210_175123_MASTER_Bravo.csv

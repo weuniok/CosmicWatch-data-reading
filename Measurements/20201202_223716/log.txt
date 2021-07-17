@@ -1,0 +1,4 @@
+[2020-12-02_22:37:16]:  Measurement started. Log file created.
+[2020-12-02_21:37:27]: Measurements paused.
+[2020-12-02_21:37:28]: Measurements resumed.
+[2020-12-02_21:37:33]: Measurements paused.

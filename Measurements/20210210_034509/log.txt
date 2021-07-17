@@ -1,0 +1,7 @@
+Date [UTC]: Information
+[2021-02-10_03:45:09]: Start button pressed. Log file created.
+[2021-02-10_02:45:15]: Detector connected on port: COM8. ID: Detektor A. Mode: Master
+[2021-02-10_02:45:15]: Measurements file for ID Detektor A, Mode: Mastercreated. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_034509\20210210_024509_MASTER_Detektor A.csv
+[2021-02-10_02:50:46]: "Stop" button bressed
+[2021-02-10_02:50:46]: Connection with COM8 lost. Disconnected CosmicWatch ID: Detektor A Mode: Master.
+[2021-02-10_02:51:15]: "Stop" button bressed

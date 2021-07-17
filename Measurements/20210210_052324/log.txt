@@ -1,0 +1,35 @@
+Date [UTC]: Information
+[2021-02-10_05:23:24]: Start button pressed. Log file created.
+[2021-02-10_04:23:30]: Detector connected on port: COM8. ID: Detektor A. Mode: Master
+[2021-02-10_04:23:30]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_052324\20210210_042324_MASTER_Detektor A.csv
+[2021-02-10_04:24:14]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:24:17]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:24:23]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:24:26]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:24:29]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:01]: Connection with COM8 restored. Connected CosmicWatch ID: Detektor A Mode: Master.
+[2021-02-10_04:25:01]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:25:04]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:07]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:10]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:13]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:33]: Connection with COM8 restored. Connected CosmicWatch ID: Detektor A Mode: Master.
+[2021-02-10_04:25:33]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:25:36]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:39]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:42]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:45]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:25:59]: Connection with COM8 restored. Connected CosmicWatch ID: Detektor A Mode: Master.
+[2021-02-10_04:25:59]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:26:03]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:26:14]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:26:17]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:26:20]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:26:23]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:26:26]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:27:54]: Connection with COM8 restored. Connected CosmicWatch ID: Detektor A Mode: Master.
+[2021-02-10_04:27:54]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:27:57]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_04:28:12]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_04:28:14]: "Stop" button pressed
+[2021-02-10_04:28:15]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException('Attempting to use a port that is not open')

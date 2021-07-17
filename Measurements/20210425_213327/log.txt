@@ -1,0 +1,11 @@
+Date [UTC]: Information
+[2021-04-25_19:33:27]: Start button pressed. Log file created.
+[2021-04-25_19:33:27]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_19:33:36]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_19:33:36]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_213327\20210425_193327_MASTER_Bravo.csv
+[2021-04-25_19:33:36]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_19:33:39]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_19:33:42]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_19:33:45]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_19:33:48]: Port: COM9. Data line cannot be read. Retrying.  Exception: IndexError('list assignment index out of range')
+[2021-04-25_19:33:59]: "Stop" button pressed

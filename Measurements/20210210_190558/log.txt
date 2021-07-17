@@ -1,0 +1,14 @@
+Date [UTC]: Information
+[2021-02-10_18:05:58]: Start button pressed. Log file created.
+[2021-02-10_18:06:06]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_18:06:06]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_190558\20210210_180558_MASTER_Bravo.csv
+[2021-02-10_18:06:07]: Detector connected on port: COM8. ID: Detektor A. Mode: Slave
+[2021-02-10_18:06:07]: Measurements file for ID Detektor A, Mode: Slave, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_190558\20210210_180558_SLAVE_Detektor A.csv
+[2021-02-10_18:06:57]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("GetOverlappedResult failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_18:07:00]: Port: COM8. Data line cannot be read. Retrying.  Exception: SerialException("ClearCommError failed (PermissionError(13, 'Odmowa dostêpu.', None, 5))")
+[2021-02-10_18:07:06]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_18:07:09]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_18:07:12]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_18:07:15]: Connection with COM8 restored. Connected CosmicWatch ID: Detektor A Mode: Slave.
+[2021-02-10_18:07:15]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')
+[2021-02-10_18:07:18]: Port: COM8. Data line cannot be read. Retrying.  Exception: IndexError('list index out of range')

@@ -1,0 +1,4 @@
+Date [UTC]: Information
+[2021-02-10_04:53:04]: Start button pressed. Log file created.
+[2021-02-10_03:53:10]: Detector connected on port: COM8. ID: Detektor A. Mode: Master
+[2021-02-10_03:53:10]: Measurements file for ID Detektor A, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_045304\20210210_035304_MASTER_Detektor A.csv

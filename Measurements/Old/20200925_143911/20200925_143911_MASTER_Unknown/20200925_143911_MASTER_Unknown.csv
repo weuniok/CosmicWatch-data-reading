@@ -1,0 +1,8 @@
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+### Distance: 5 cm; Angle: 0.0 degrees
+#####################################################################################
+1 149 158 27.53 38 27.34
+2 632 348 65.64 42 27.13

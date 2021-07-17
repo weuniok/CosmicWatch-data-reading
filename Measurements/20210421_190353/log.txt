@@ -1,0 +1,12 @@
+Date [UTC]: Information
+[2021-04-21_17:03:53]: Start button pressed. Log file created.
+[2021-04-21_17:03:53]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-21_17:04:00]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-21_17:04:00]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210421_190353\20210421_170353_MASTER_Bravo.csv
+[2021-04-21_17:04:10]: COMMENT: Pomiar testowy 21.04.2021
+[2021-04-21_17:04:54]: Measurements paused.
+[2021-04-21_17:05:04]: COMMENT: Pauza na real time 1 minuta live time 58
+[2021-04-21_17:05:14]: COMMENT: Co stanie sie z dead timem, teraz wynosi jakies 20s
+[2021-04-21_17:05:16]: Measurements resumed.
+[2021-04-21_17:06:27]: "Stop" button pressed
+[2021-04-21_17:06:27]: Port: COM9. Data line cannot be read. Retrying.  Exception: SerialException("ReadFile failed (OSError(9, 'Nieprawid³owe dojœcie.', None, 6))")

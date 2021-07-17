@@ -1,0 +1,16 @@
+CosmicWatchDetector
+Detektor A
+Creating file: FileS044.txt
+#####################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Questions? saxani@mit.edu
+### Distance: 1 cm; Angle: 0.0 degrees
+### Comp_date Comp_time Event Ardn_time[ms] ADC[0-1023] SiPM[mV] Deadtime[ms] Temp[C]
+#####################################################################################
+DetectorID: Detektor A
+DetectorMode: Slave
+
+2021-02-10 17:32:46.673 1 3365 344 64.67 0 21.76
+2021-02-10 17:32:57.285 2 14026 56 16.76 16 21.54
+2021-02-10 17:32:58.623 3 15361 440 109.25 35 21.54
+2021-02-10 17:33:00.344 4 17089 76 19.69 54 21.54

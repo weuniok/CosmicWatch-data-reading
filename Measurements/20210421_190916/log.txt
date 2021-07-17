@@ -1,0 +1,11 @@
+Date [UTC]: Information
+[2021-04-21_17:09:16]: Start button pressed. Log file created.
+[2021-04-21_17:09:16]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-21_17:09:23]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-21_17:09:23]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210421_190916\20210421_170916_MASTER_Bravo.csv
+[2021-04-21_17:09:28]: Measurements paused.
+[2021-04-21_17:10:10]: COMMENT: TEst
+[2021-04-21_17:10:15]: Measurements resumed.
+[2021-04-21_17:10:26]: "Stop" button pressed
+[2021-04-21_17:10:26]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'NoneType' object has no attribute 'hEvent'")
+[2021-04-21_17:10:30]: "Stop" button pressed

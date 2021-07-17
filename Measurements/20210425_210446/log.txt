@@ -1,0 +1,8 @@
+Date [UTC]: Information
+[2021-04-25_19:04:46]: Start button pressed. Log file created.
+[2021-04-25_19:04:46]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_19:04:54]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_19:04:54]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_210446\20210425_190446_MASTER_Bravo.csv
+[2021-04-25_19:05:21]: "Stop" button pressed
+[2021-04-25_19:05:21]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'NoneType' object has no attribute 'hEvent'")
+[2021-04-25_19:05:32]: Detected ports: COM8, COM9.

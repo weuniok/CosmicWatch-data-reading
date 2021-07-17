@@ -1,0 +1,2 @@
+Date[UTC]: Information[2020-12-02_22:43:21]: Start button pressed. Log file created.
+[2020-12-02_21:43:28]: Connection with COM9lost. Disconnected CosmicWatch ID: NCBJ_026Mode: Master.

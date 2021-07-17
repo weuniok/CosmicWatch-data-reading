@@ -1,0 +1,15 @@
+Date [UTC]: Information
+[2021-04-25_19:38:03]: Start button pressed. Log file created.
+[2021-04-25_19:38:03]: Angle = 0.0 degrees. Distance = 5 cm.
+[2021-04-25_19:38:12]: Detector connected on port: COM9. ID: Bravo. Mode: Master
+[2021-04-25_19:38:12]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210425_213803\20210425_193803_MASTER_Bravo.csv
+[2021-04-25_19:38:13]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_19:38:16]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_19:38:19]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_19:38:21]: "Show live charts" button pressed.
+[2021-04-25_19:38:22]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_19:38:25]: Port: COM9. Data line cannot be read. Retrying.  Exception: AttributeError("'list' object attribute 'append' is read-only")
+[2021-04-25_19:39:37]: "Stop" button pressed
+[2021-04-25_19:40:00]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_195402/20210425_175402_MASTER_Bravo.csv
+[2021-04-25_19:40:08]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_195402/20210425_175402_MASTER_Bravo.csv
+[2021-04-25_19:40:16]: Selected file: F:/materialy/JINR/Homework 4 Data Saving/Measurements/20210425_195117/20210425_175117_MASTER_Bravo.csv

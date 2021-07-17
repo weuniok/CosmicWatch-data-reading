@@ -1,0 +1,6 @@
+Date [UTC]: Information
+[2021-02-10_01:45:28]: Start button pressed. Log file created.
+[2021-02-10_00:45:34]: Measurements paused.
+[2021-02-10_00:45:36]: Detected ports: COM8.
+[2021-02-10_00:45:48]: Measurements resumed.
+[2021-02-10_00:45:49]: "Stop" button bressed

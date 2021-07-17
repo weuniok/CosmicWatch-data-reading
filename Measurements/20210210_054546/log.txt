@@ -1,0 +1,4 @@
+Date [UTC]: Information
+[2021-02-10_04:45:46]: Start button pressed. Log file created.
+[2021-02-10_04:45:50]: "Stop" button pressed
+[2021-02-10_04:46:33]: "Stop" button pressed

@@ -1,0 +1,7 @@
+Date [UTC]: Information
+[2021-02-10_16:55:44]: Start button pressed. Log file created.
+[2021-02-10_16:55:51]: Detector connected on port: COM7. ID: Bravo. Mode: Master
+[2021-02-10_16:55:51]: Measurements file for ID Bravo, Mode: Master, created. Path: F:\materialy\JINR\Homework 4 Data Saving\Measurements\20210210_175544\20210210_165544_MASTER_Bravo.csv
+[2021-02-10_16:55:57]: "Stop" button pressed
+[2021-02-10_16:55:57]: Port: COM7. Data line cannot be read. Retrying.  Exception: AttributeError("'NoneType' object has no attribute 'hEvent'")
+[2021-02-10_16:55:58]: "Stop" button pressed
